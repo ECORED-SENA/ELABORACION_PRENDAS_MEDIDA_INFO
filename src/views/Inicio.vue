@@ -86,7 +86,7 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
-      span.h6 5. Estrategia<br>metodológica
+      span.h6 6. Estrategia<br>metodológica
 
     p.mb-4 Centrada en la construcción de autonomía para garantizar la calidad de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales, soportadas en la utilización de las Tecnologías de la Información y la Comunicación (TIC), integradas en ambientes abiertos y pluritecnológicos, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y  con el desarrollo de las competencias.
 
@@ -108,6 +108,11 @@ section
           img.w-75.mx-auto(src='@/assets/curso/03.svg', alt='El instructor - tutor')
         p.text-center
           strong Las TIC
+      .col-5.col-sm-3.col-md-2
+        figure.mb-2
+          img.w-75.mx-auto(src='@/assets/curso/04.svg', alt='El instructor - tutor')
+        p.text-center
+          strong El trabajo colaborativo
 
   //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.mb-5
