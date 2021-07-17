@@ -57,26 +57,10 @@ section
       li.d-flex  
         i.fas.fa-angle-right
         |	Utilizar herramientas informáticas de acuerdo con las necesidades de manejo de la información.
-
   
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
-      span.h6 4. Perfil<br>de ingreso
-    
-    ul.lista-ul
-      li.d-flex  
-        i.fas.fa-angle-right
-        | Nivel académico media requerido: grado séptimo
-      li.d-flex  
-        i.fas.fa-angle-right
-        | Edad mínima: 14 años
-      li.d-flex  
-        i.fas.fa-angle-right
-        | Requisitos adicionales: cumplir con el proceso de selección establecido y conocimiento básico de manejo de máquina plana y fileteadora.
-  
-  .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
-    .titulo__template--a.mb-4
-      span.h6 5. Perfil<br>de egreso
+      span.h6 4. Perfil<br>de egreso
   
     p.mb-4 El técnico en elaboración de prendas de vestir sobre medidas está en la capacidad de interpretar modelos o diseño para iniciar el trabajo de confección, trazar y transformar moldes, cortar prendas de diferentes características, operar máquinas industriales, para realizar el ensamble y acabados de todo tipo de vestuario sobre medidas, con diferentes grados de complejidad.
 
@@ -86,7 +70,7 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
-      span.h6 6. Estrategia<br>metodológica
+      span.h6 5. Estrategia<br>metodológica
 
     p.mb-4 Centrada en la construcción de autonomía para garantizar la calidad de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales, soportadas en la utilización de las Tecnologías de la Información y la Comunicación (TIC), integradas en ambientes abiertos y pluritecnológicos, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y  con el desarrollo de las competencias.
 
